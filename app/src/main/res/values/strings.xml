@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TV Cast</string>
+    <string name="share_label">Play on TV</string>
+    <string name="tagline">Play videos from your phone on your Samsung TV</string>
+    <string name="step_video">1 · Video</string>
+    <string name="step_tv">2 · TV</string>
+    <string name="step_play">3 · Play</string>
+    <string name="no_video">No video chosen</string>
+    <string name="choose_video">Choose video</string>
+    <string name="searching">Searching your Wi-Fi for TVs…</string>
+    <string name="no_tvs">No TVs found. Make sure the TV is switched on and connected to the same Wi-Fi as your phone, then search again, or enter the TV\'s IP address.</string>
+    <string name="search_again">Search again</string>
+    <string name="enter_ip">Enter TV IP</string>
+    <string name="play_on_tv">Play on TV</string>
+    <string name="play_again">Play this video instead</string>
+    <string name="back_10">−10 s</string>
+    <string name="fwd_30">+30 s</string>
+    <string name="pause">Pause</string>
+    <string name="vol_down">Vol −</string>
+    <string name="vol_up">Vol +</string>
+    <string name="volume">Volume</string>
+    <string name="stop">Stop casting</string>
+    <string name="hint">Tip: you can also tap Share on any video in Gallery and choose TV Cast. While casting, your phone\'s volume buttons control the TV.</string>
+</resources>

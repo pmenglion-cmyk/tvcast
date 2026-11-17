@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#F3F4F7</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text">#14161B</color>
+    <color name="text_dim">#5E6573</color>
+    <color name="accent">#1428A0</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="soft">#E6E9F2</color>
+    <color name="ic_launcher_bg">#1428A0</color>
+</resources>
